@@ -5,7 +5,7 @@ Sequence Search
 ---------------
 
 - Sorted Lists
-    * BinaAlgorithms
+    * Binary Search - locates an item in a sorted sequence
     /* TODO */
     * Fibonacci search technique
     * Jump Search

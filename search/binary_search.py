@@ -7,7 +7,7 @@ def binary_search(seq, e):
     within a sorted sequence 'seq'.
     """
     left, right = 0, len(seq) - 1
-    while 1:
+    while left <= right:
         if right < left:
             return -1
         mid = (left + right) / 2
